@@ -4,6 +4,7 @@
 Pytorch 1.x
 # Train/Test
 * train
-  '''
-  python train.py
-  '''
+```
+python train.py
+```
+
