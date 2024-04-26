@@ -4,8 +4,8 @@
 Pytorch 1.x
 # Dataset
 The datasets are available at:
-Synapse mutli-organ dataset:https://www.synapse.org/#!Synapse:syn3193805/wiki/217789
-ACDC dataset: https://www.creatis.insa-lyon.fr/Challenge/acdc/
+Synapse mutli-organ dataset: https://www.synapse.org/#!Synapse:syn3193805/wiki/217789
+ACDC dataset: <https://www.creatis.insa-lyon.fr/Challenge/acdc/>
 COVID-19 dataset: https://www.kaggle.com/datasets/andrewmvd/covid19-ct-scans
 
 # Train/Test
